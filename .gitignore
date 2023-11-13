@@ -1,5 +1,7 @@
 # dependencies
 /node_modules
+/bmp
+/png
 /.pnp
 .pnp.js
 
